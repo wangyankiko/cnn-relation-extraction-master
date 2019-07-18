@@ -1,0 +1,4 @@
+resource/
+runs/
+**/.idea/
+**/__pycache__/
