@@ -8,6 +8,7 @@ import utils
 from configure import FLAGS
 
 
+
 def clean_str(text):
     text = text.lower()
     # Clean the text
